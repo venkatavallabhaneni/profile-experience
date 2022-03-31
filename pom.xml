@@ -14,7 +14,7 @@
         <version>2.1.8.RELEASE</version>
     </parent>
     <properties>
-        <spring.boot.version>2.1.8.RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.12</spring.boot.version>
         <docker.image.prefix>venkatavallabhaneni</docker.image.prefix>
     </properties>
     <dependencies>
